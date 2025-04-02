@@ -1,0 +1,15 @@
+{
+  "name": "practice_project",
+  "version": "1.0.0",
+  "description": "to make professional backend project",
+  "main": "index.js",
+  "scripts": {
+    "dev":"node server.js"
+  },
+  "keywords": [
+    "Backend",
+    "Javascript"
+  ],
+  "author": "Himanshi",
+  "license": "ISC"
+}
